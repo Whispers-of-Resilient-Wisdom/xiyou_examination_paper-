@@ -1,7 +1,12 @@
 # 📚 西安邮电大学计算机学院期末复习资料
 
 <div align="center">
-  <img src="https://via.placeholder.com/150x50/006699/FFFFFF?text=西安邮电大学" alt="校徽" style="border-radius: 5px;">
+<div align="center">
+  <img src="https://bkimg.cdn.bcebos.com/pic/9825bc315c6034a85edf022d3f495e540923dd54d85e?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080" 
+       alt="西安邮电大学校徽" 
+       width="150" 
+       style="border-radius: 5px;">
+</div>
 </div>
 
 ---
@@ -17,3 +22,4 @@
 - [马原](#-马原)
 
 ---
+
